@@ -1,5 +1,10 @@
 # Repositório público de Pedro Medeiros
 
+<style>
+    body{
+        background-color: #CCD7C5;
+    }
+</style>
 Todos meus projetos, testes em sites e códigos em geral, estarei organizando neste repositório.
 
 <img align="right" src="imagens/imagem-dois.png" width="200">
