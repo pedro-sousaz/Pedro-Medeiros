@@ -4,10 +4,13 @@
     body{
         background-color: #CCD7C5;
     }
+    img{
+        padding-left: 0px;
+    }
 </style>
 Todos meus projetos, testes em sites e códigos em geral, estarei organizando neste repositório.
 
-<img align="right" src="imagens/imagem-dois.png" width="200" padding-left: 0px;>
+<img align="right" src="imagens/imagem-dois.png" width="200">
 
 ## Alguns Projetos Iniciais
 
