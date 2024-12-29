@@ -7,7 +7,7 @@
 </style>
 Todos meus projetos, testes em sites e códigos em geral, estarei organizando neste repositório.
 
-<img align="right" src="imagens/imagem-dois.png" width="200">
+<img align="right" src="imagens/imagem-dois.png">
 
 ## Alguns Projetos Iniciais
 
