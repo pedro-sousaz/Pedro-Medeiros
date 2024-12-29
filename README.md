@@ -7,6 +7,9 @@
     img{
         padding-left: 0px;
     }
+    .markdown-body img[align=right] {
+    padding-left: 0px;
+}
 </style>
 Todos meus projetos, testes em sites e códigos em geral, estarei organizando neste repositório.
 
