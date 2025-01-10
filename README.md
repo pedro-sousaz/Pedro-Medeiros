@@ -11,13 +11,10 @@
     padding-left: 0px;
 }
 </style>
-Todos meus projetos, testes em sites e códigos em geral, estarei organizando neste repositório.
 
 <img align="right" src="imagens/imagem-dois.png" width="200">
 
-## Alguns Projetos Iniciais
-
-Esses Projetos produzi durante o processo do curso de HTML (5) e CSS (3).
+## Alguns Projetos:
 
 * [Acesse o Projeto Cordel Moderno aqui](https://pedro-sousaz.github.io/projeto-cordel/)
 * [Acesse o Projeto Android aqui](https://pedro-sousaz.github.io/android-projeto/)
