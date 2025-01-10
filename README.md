@@ -24,4 +24,5 @@ Esses Projetos produzi durante o processo do curso de HTML (5) e CSS (3).
 * [Acesse o Projeto Social aqui](https://pedro-sousaz.github.io/projeto-social/)
 * [Acesse o Projeto Login aqui](https://pedro-sousaz.github.io/projeto-login/)
 * [Acesse o meu Portfólio de teste aqui](https://pedro-sousaz.github.io/Portfolio-dois/)
-* [Acesse o Projeto Página de viagens](https://pedro-sousaz.github.io/projeto-logo/)
+* [Acesse o Projeto Página de viagens](https://pedro-sousaz.github.io/projeto-viagem/)
+* [Acesse o Site da Upp](https://pedro-sousaz.github.io/projeto-upp/)
